@@ -1,0 +1,5 @@
+       hey     1
+     there     2
+       bob     4
+        bo     1
+     peace     1
